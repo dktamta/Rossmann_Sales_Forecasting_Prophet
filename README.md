@@ -301,7 +301,7 @@ By deploying this forecasting system, Rossmann can:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Rossmann_Sales_Forecasting_Prophet.git
+git clone https://github.com/dktamta/Rossmann_Sales_Forecasting_Prophet.git
 cd Rossmann_Sales_Forecasting_Prophet
 
 # Install dependencies
